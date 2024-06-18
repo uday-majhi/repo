@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6f593208-32a4-4063-bc69-22f33f16933f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/methodoverloadingthis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/methodoverloadingthis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +33,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.attributes.executor": "Run",
+    "Application.classAndObject.executor": "Run",
     "Application.dates.executor": "Run",
     "Application.methodoverloadingthis.executor": "Run",
     "Application.methods.executor": "Run",
+    "Application.multipleobjects.executor": "Run",
+    "Application.recursionhere.executor": "Run",
     "Application.typecasting.executor": "Run",
     "Java Scratch.Scratch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -47,7 +52,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.methodoverloadingthis">
+  <component name="RunManager">
     <configuration name="methodoverloadingthis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methodoverloadingthis" />
       <module name="JavaPractice" />
@@ -62,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="Application.methodoverloadingthis" />
         <item itemvalue="Application.typecasting" />
       </list>
@@ -79,5 +92,16 @@
       <updated>1717253093380</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
