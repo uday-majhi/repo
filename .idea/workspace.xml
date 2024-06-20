@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f593208-32a4-4063-bc69-22f33f16933f" name="Changes" comment="" />
+    <list default="true" id="6f593208-32a4-4063-bc69-22f33f16933f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/add.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/concate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/typecasting.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,11 +39,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MypackageClass.executor": "Run",
     "Application.attributes.executor": "Run",
     "Application.classAndObject.executor": "Run",
     "Application.classMethods.executor": "Run",
     "Application.constructors.executor": "Run",
     "Application.dates.executor": "Run",
+    "Application.encapsulation.executor": "Run",
+    "Application.importclass.executor": "Run",
     "Application.main.executor": "Run",
     "Application.methodoverloadingthis.executor": "Run",
     "Application.methods.executor": "Run",
